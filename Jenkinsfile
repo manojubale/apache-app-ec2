@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        AWS_REGION = 'ap-south-1'
+        AWS_REGION = 'us-east-2'
         TF_CLI_ARGS = "-no-color"   // Ensures clean, aligned output
 
     }
